@@ -6,4 +6,10 @@ A bunch of great, easy to read Latin is now available online thanks to Google Bo
 
 This is a repository for digitized versions of easy Latin readers that have been proofread and cleaned.
 
+* [Fabulae Faciles, by F. Richie](./fabulae-faciles/)
 * [Ora Maritima, by E. A. Sonnenschein](./ora-maritima/)
+
+## TODO
+
+* Existing html markup is optimized for creating epub ebooks for personal use. This should be refactored into something more flexible.
+* Richie's glossary is only digitized up to J.
