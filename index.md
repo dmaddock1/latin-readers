@@ -6,4 +6,4 @@ A bunch of great, easy to read Latin is now available online thanks to Google Bo
 
 This is a repository for digitized versions of easy Latin readers that have been proofread and cleaned.
 
-* [Ora Maritima, by E. A. Sonnenschein](/ora-maritima/)
+* [Ora Maritima, by E. A. Sonnenschein](./ora-maritima/)
